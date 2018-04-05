@@ -4,4 +4,4 @@ Change the file
 
 HERE IS A CHANGE ON ONLINE GITHUB
 
-Here is another change after the branch was created
+This is the resolved change for merging
