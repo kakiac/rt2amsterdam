@@ -9,9 +9,9 @@ Written for Stata 14--SE, 64-bit, for Windows
 SHOULD BE SET TO THE "Command-Files" FOLDER. */
 
 clear
-set more off
+set more off , perm // <-- change on exp branch
 
-cd "/users/bbdaniels/github" //<-- some directory 
+cd "/users/bbdaniels/github" //<-- some directory
 
 
 *OPEN THE IMPORTABLE PEW DATA
